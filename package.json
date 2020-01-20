@@ -35,13 +35,13 @@
   "devDependencies": {
     "@types/chai": "^4.2.7",
     "@types/mocha": "^5.2.7",
-    "@types/node": "^12.12.21",
+    "@types/node": "^13.1.8",
     "chai": "^4.2.0",
     "coveralls": "^3.0.9",
     "gts": "^1.1.2",
-    "mocha": "^6.2.2",
-    "nyc": "^14.1.1",
+    "mocha": "^7.0.0",
+    "nyc": "^15.0.0",
     "tslint": "^5.20.1",
-    "typescript": "^3.7.3"
+    "typescript": "^3.7.5"
   }
 }
