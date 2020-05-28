@@ -1,1 +1,1 @@
-export { Lib as LibModule } from './lib/index';
+export {Lib as LibModule} from './lib/index';
